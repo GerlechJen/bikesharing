@@ -21,9 +21,23 @@ An area chart was created next to find the average duration of a bike ride, by a
 
 ![image2](https://github.com/GerlechJen/bikesharing/blob/main/Images/Average%20Trip%20Duration.png)
 
+The visualization of this graph shows that, 
+
 To have a fair idea of some of the costs that might come up while running the business, bike maintenance was considered as one of the biggest expense. Bikes that are used most frequently will probably be the ones that require the most maintenance. With this knowledge, bikes with the highest number of rides were determined by creating a treemap which helped us get an idea of how often each bike is used.
 
 A packed bubbles visualization was also created to discover the utilization of each Citi Bike in the month of August. This will allow us to view the total usage time per bike, as well as which bikes are used the most frequently, which will give further insight into which bikes may need repairs.
+
+
+
+
+Bike trip analysis was performed by plottinga line grapgh that shows the length of time that bikes are checked out for all riders and genders.
+
+Show the number of bike trips for all riders and genders for each hour of each day of the week
+
+Show the number of bike trips for each type of user and gender for each day of the week.
+
+A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
 
 
 ## Summary
