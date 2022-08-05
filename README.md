@@ -30,21 +30,46 @@ A packed bubbles visualization was also created to discover the utilization of e
 
 
 
-Bike trip analysis was performed by plottinga line grapgh that shows the length of time that bikes are checked out for all riders and genders.
+Bike trip analysis was performed by plotting a line graph that shows the length of time that bikes are checked out for all riders and genders.
 
-Show the number of bike trips for all riders and genders for each hour of each day of the week
 
-Show the number of bike trips for each type of user and gender for each day of the week.
+The results of the above graph showed that
 
-A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+Another line chart that shows the number of bike trips for all riders and genders for each hour of each day of the week was plotted. 
+The results showed that
+
+
+
+A graph was drawn to show the the number of bike trips by weekday for each hour of the day as a heatmap.
+
+![image3](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png)
+
+The results showed that
+
+Another graph was drawn to show the number of bike trips by gender for each hour of each day of the week as a heatmap.
+
+![image4](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Gender%20.png)
+
+The results showed that
+
+A final heatmap that shows the number of bike trips broken down by gender and usertype for each day of the week.
+
+![image5](https://github.com/GerlechJen/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+The results showed that
+
+
+
+
+
 
 
 
 ## Summary
 
+A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
-
-
+Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
 ----
