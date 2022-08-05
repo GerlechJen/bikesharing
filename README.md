@@ -71,7 +71,7 @@ A breakdown of what days of the week a user might be more likely to check out a 
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
-
+The Tableau story can be seen, by clicking 
 ----
 
 **Completed by:** Jennifer Anno-Kusi
