@@ -21,7 +21,8 @@ An area chart was created next to find the average duration of a bike ride, by a
 
 ![image2](https://github.com/GerlechJen/bikesharing/blob/main/Images/Average%20Trip%20Duration.png)
 
-The visualization of this graph confirms once again that, there is heavy bike usage during weekday commute times of 8AM and 9AM then 5PM and 6PM. For weekends, the usage is spread throughout the middle of the day. One perculiar thing observed is the low bike usage during Wednesday's end-of-day commute. It will be a great idea to explore reasons for this. For instance holidays falling on Wednesdays. But it could also be just an arbitrary inconsistency. Also, it is still observed that the low-usage hours is between 1AM to 5AM every day of the week.
+This chart shows that the bikeshare usage covers all age demographics, from teenagers to the elderly. Teenagers and early-twenty-somethings enjoy taking much longer bikerides than the old.
+
 
 To have a fair idea of some of the costs that might come up while running the business, bike maintenance was considered as one of the biggest expense. Bikes that are used most frequently will probably be the ones that require the most maintenance. With this knowledge, bikes with the highest number of rides were determined by creating a treemap which helped us get an idea of how often each bike is used.
 
@@ -44,7 +45,7 @@ A graph was drawn to show the the number of bike trips by weekday for each hour 
 
 ![image3](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png)
 
-The results showed that
+The visualization of this graph confirms once again that, there is heavy bike usage during weekday commute times of 8AM and 9AM then 5PM and 6PM. For weekends, the usage is spread throughout the middle of the day. One perculiar thing observed is the low bike usage during Wednesday's end-of-day commute. It will be a great idea to explore reasons for this. For instance holidays falling on Wednesdays. But it could also be just an arbitrary inconsistency. Also, it is still observed that the low-usage hours is between 1AM to 5AM every day of the week.
 
 Another graph was drawn to show the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
