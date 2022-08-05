@@ -11,7 +11,15 @@ The peak usage hours for the month of August was figured out using a horizontal 
 
 ![image1](https://github.com/GerlechJen/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
 
-From the above graph, the top riding hours during August in New York City were 5pm and 6pm.
+From the above graph, the top riding hours during August in New York City were 5 PM and 6PM. The most idle hours were between 1 AM to 5 AM so bike maintenance can be performed during those hours.
+
+Two symbol maps were created to find the highest-traffic locations for both starting and ending a bike journey among Citi Bike customers. These graphs helped to understand where people use Citi Bike and where they drop off the bikes.
+
+Another pie chart was created to know the gender breakdown of Citi Bike riders. From this pie chart we were able to discover that males use bike sharing the most. The number of males taking the rides was 1,530,272. That of females was 588,431 and 225,521 were unknown gender. 
+
+at the average duration of a bike ride, by age. This will help us set expectations for trip duration in Des Moines.
+
+![image2](https://github.com/GerlechJen/bikesharing/blob/main/Images/Average%20Trip%20Duration.png)
 
 
 
