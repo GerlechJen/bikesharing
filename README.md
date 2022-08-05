@@ -9,6 +9,10 @@ The data of the Citi Bike program in New York City is contained in a CSV. The Au
 
 The peak usage hours for the month of August was figured out using a horizontal bar chart. This will help the investors get a ballpark estimate of how many bikes might be needed in Des Moines and also figure out during which parts of the day bikes will be needed the most. This way, if maintenance is required on a bike, knowing the peak usage hours will help make plans on the best time to do that. The bar graph is shown below:
 
+![image1](https://github.com/GerlechJen/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
+
+From the above graph, the top riding hours during August in New York City were 5pm and 6pm.
+
 
 
 ## Summary
