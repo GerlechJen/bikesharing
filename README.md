@@ -44,7 +44,6 @@ Another line chart that shows the number of bike trips for all riders and gender
 The results showed that
 
 
-
 A graph was drawn to show the the number of bike trips by weekday for each hour of the day as a heatmap.
 
 ![image3](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png)
