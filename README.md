@@ -42,7 +42,7 @@ Another line chart that shows the number of bike trips for all riders and gender
 
 ![image7](https://github.com/GerlechJen/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 
-The above results emphasised how the less than an hour trip durations are mostly taken by male riders, followed by female riders with the least being those with unknown or unspecified gender. 
+The above results emphasised how the less than an hour trip durations are mostly taken by male riders, followed by female riders, with the least being those with unknown or unspecified gender. 
 
 A graph was drawn to show the the number of bike trips by weekday for each hour of the day as a heatmap.
 
