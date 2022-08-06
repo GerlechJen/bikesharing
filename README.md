@@ -33,14 +33,14 @@ This chart shows that the bikeshare usage covers all age demographics, from teen
 
 Bike trip analysis was performed by plotting a line graph that shows the length of time that bikes are checked out for all riders and genders.
 
-![image6](https://github.com/GerlechJen/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png)
+![image6]()
 
 
 The results of the above graph showed that majority of trips taken on Citi Bike bikes are for less than an hour. Most trips are under 30 minutes, with a significant drop in number of rides after an hour. Trip duration of 5 minutes had the highest number of rides of **146,752**
 
 Another line chart that shows the number of bike trips for all riders and genders for each hour of each day of the week was plotted. 
 
-![image7]()
+![image7](https://github.com/GerlechJen/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 
 The above results emphasised how the less than an hour trip durations are mostly taken by male riders, followed by female riders, with the least being those with unknown or unspecified gender. 
 
