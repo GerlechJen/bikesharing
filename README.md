@@ -58,7 +58,7 @@ The results showed that
 
 A final heatmap that shows the number of bike trips broken down by gender and usertype for each day of the week.
 
-![image5](https://github.com/GerlechJen/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
+![image5](https://github.com/GerlechJen/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
 The results showed that
 
