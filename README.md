@@ -23,7 +23,7 @@ The peak usage hours for the month of August was figured out using a horizontal 
 
 ![image1](https://github.com/GerlechJen/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
 
-From the above graph, the top riding hours were during morning rush hour between **8 AM** and **9 AM** and end-of-workday hours between **5 PM** and **6 PM**. The most idle hours were between **1 AM** to **5 AM** so bike maintenance can be performed during those hours.
+From the above graph, the top riding hours were during morning rush hours between **8 AM** and **9 AM** and end-of-workday hours between **5 PM** and **6 PM**. The most idle hours were between **1 AM** to **5 AM** so bike maintenance can be performed during these idle hours.
 
 An area chart was created next to find the average duration of a bike ride, by age. This will help set expectations for trip duration in Des Moines.
 
