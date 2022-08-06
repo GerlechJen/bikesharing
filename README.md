@@ -33,10 +33,15 @@ A packed bubbles visualization was also created to discover the utilization of e
 
 Bike trip analysis was performed by plotting a line graph that shows the length of time that bikes are checked out for all riders and genders.
 
+![image6](https://github.com/GerlechJen/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png)
+
 
 The results of the above graph showed that
 
 Another line chart that shows the number of bike trips for all riders and genders for each hour of each day of the week was plotted. 
+
+![image7](https://github.com/GerlechJen/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
+
 The results showed that
 
 
