@@ -7,7 +7,7 @@ In this project, I will use visualizations that tell a story to present a busine
 ## Results
 The data of the Citi Bike program in New York City is contained in a CSV. The August 2019 data to be specific, was used because there is likely more traffic during the summer months. From my visualizations with Tableau, the number of rides for August 2019 was **2,344,224**. 
 
-I determined the number of short-term customers and annual subscribers to the Citi Bike service. This will help predict the types of customers to be expected for a similar bike-sharing company in Des Moines. The proportion of short-term customers to the annual subscribers was found using a pie chart. The number of customers was **443,865** while the number of subscribers was **1,900,359** which shows that the percenatage of customers is 19% and the percentage of subscribers is 81%.
+I continued by determining the number of short-term customers and annual subscribers to the Citi Bike service. This will help predict the types of customers to be expected for a similar bike-sharing company in Des Moines. The proportion of short-term customers to the annual subscribers was found using a pie chart. The number of customers was **443,865** while the number of subscribers was **1,900,359** which shows that the percenatage of riders who are customers is 19% and the percentage of subscribers is 81%.
 
 Another pie chart was created to know the gender breakdown of Citi Bike riders. From this pie chart we were able to discover that males use bike sharing the most. The number of males taking the rides was 1,530,272. That of females was 588,431 and 225,521 were unknown gender. 
 
