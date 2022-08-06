@@ -46,37 +46,27 @@ A graph was drawn to show the the number of bike trips by weekday for each hour 
 
 ![image3](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png)
 
-This visualization shows how majority of the riders are male subscibers.This graph solidifies our previous analysis that showed that most of the riders are subscribers. 
-
-There are one or two additional charts available in the Tableau analysis, but they tell pretty much the same story that has already been displayed above.
-
 The visualization of this graph confirms once again that, there is heavy bike usage during weekday commute times of 8AM and 9AM then 5PM and 6PM. For weekends, the usage is spread throughout the middle of the day. One perculiar thing observed is the low bike usage during Wednesday's end-of-day commute. It will be a great idea to explore reasons for this. For instance holidays falling on Wednesdays. But it could also be just an arbitrary inconsistency. Also, it is still observed that the low-usage hours is between 1AM to 5AM every day of the week.
 
 Another graph was drawn to show the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
 ![image4](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Gender%20.png)
 
-The results showed that
+
+
+
 
 A final heatmap that shows the number of bike trips broken down by gender and usertype for each day of the week.
 
 ![image5](https://github.com/GerlechJen/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
-The results showed that
-
-
-
-
-
-
-
+This visualization shows how majority of the riders are male subscibers.This graph solidifies our previous analysis that showed that most of the riders are subscribers. 
 
 ## Summary
 
 A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
 
 In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
 
