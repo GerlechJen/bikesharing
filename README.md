@@ -25,7 +25,7 @@ The peak usage hours for the month of August was figured out using a horizontal 
 
 From the above graph, the top riding hours were during morning rush hours between **8 AM** and **9 AM** and end-of-workday hours between **5 PM** and **6 PM**. The most idle hours were between **1 AM** to **5 AM** so bike maintenance can be performed during these idle hours.
 
-An area chart was created next to find the average duration of a bike ride, by age. This will help set expectations for trip duration in Des Moines.
+An area chart was created next, to find the average duration of a bike ride by age. This will help set expectations for trip duration in Des Moines.
 
 ![image2](https://github.com/GerlechJen/bikesharing/blob/main/Images/Average%20Trip%20Duration.png)
 
@@ -44,11 +44,11 @@ Another line chart that shows the number of bike trips for all riders and gender
 
 The above results emphasised how the less than an hour trip durations are mostly taken by male riders, followed by female riders, with the least being those with unknown or unspecified gender. 
 
-A graph was drawn to show the number of bike trips by weekday for each hour of the day as a heatmap.
+Continuing further, a graph was drawn to show the number of bike trips by weekday for each hour of the day as a heatmap.
 
 ![image3](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png)
 
-The visualization of this graph confirms once again that, there is heavy bike usage during weekday commute times of 8AM and 9AM then 5PM and 6PM. For weekends, the usage is spread throughout the middle of the day. One perculiar thing observed is the low bike usage during Wednesday's end-of-day commute. It will be a great idea to explore reasons for this. For instance holidays falling on Wednesdays. But it could also be just an arbitrary inconsistency. Also, it is still observed that the low-usage hours is between 1AM to 5AM every day of the week.
+The visualization of this graph confirms once again that, there is heavy bike usage during weekday commute times of 8AM and 9AM then 5PM and 6PM. For weekends, the usage is spread throughout the middle of the day. One perculiar thing observed is the low bike usage during Wednesday's end-of-day commute. It will be a great idea to explore reasons for this. For instance holidays falling on Wednesdays. But it could also be just an arbitrary inconsistency. One consistent observation though is that the low-usage hours is between 1AM to 5AM every day of the week.
 
 Another graph was drawn to show the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
