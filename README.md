@@ -54,7 +54,7 @@ Another graph was drawn to show the number of bike trips by gender for each hour
 
 ![image4](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Gender%20.png)
 
-This graph shows that 
+This graph confirmed the previous observation that most rides are by male riders, followed by females then unknowns. The peak times observed for the trips were more visible for the male riders. 
 
 
 
@@ -62,25 +62,18 @@ A final heatmap that shows the number of bike trips broken down by gender and us
 
 ![image5](https://github.com/GerlechJen/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
-This visualization shows how majority of the riders are male subscibers.This graph solidifies our previous analysis that showed that most of the riders are subscribers. 
+This visualization shows how majority of the riders are male subscibers.This graph solidifies our earlier analysis that showed that most of the riders are subscribers. 
 
 ## Summary
 
-A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+In conclusion, the usertype of Citi Bike bike-sharing service is mostly subscribers.  Of all the users, male subscribers are the most and provide regular income to the business. The usage of the bikes peak during weeekday morning and evening commute times of 8 AM to 9 AM and 5 PM to 6PM respectively. The usage of the bikes is at the lowest between 1 AM and 5 AM everyday. On weekends, the usage is spread throughout the middle of the day from around 9 AM to 7 PM.
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+If I were to pursue further analysis given the data provided, I would perform these two visualizations:
 
-In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
+1. A bar graph to show the top 10 trip starting and ending locations.
+2. An area graph to show the number of rides versus birth year to know which age groups often take rides. 
 
-If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
-
-trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
-average trip duration, by birth year, by gender, to explore if there was any difference in male or female or un-gendered riders as they age.
-
-The Tableau story can be seen, by clicking 
-
-
-
+A Tableau story for the visualizations of this data was developed and it can be seen by clicking 
 
 ----
 
