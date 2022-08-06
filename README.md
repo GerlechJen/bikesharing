@@ -15,7 +15,9 @@ Two symbol maps were created to find the highest-traffic locations for both star
 
 To have a fair idea of some of the costs that might come up while running the business, bike maintenance was considered as one of the biggest expense. Bikes that are used most frequently will probably be the ones that require the most maintenance. With this knowledge, bikes with the highest number of rides were determined by creating a treemap which helped us get an idea of how often each bike is used.
 
-A packed bubbles visualization was also created to discover the utilization of each Citi Bike in the month of August. This will allow us to view the total usage time per bike, as well as which bikes are used the most frequently, which will give further insight into which bikes may need repairs.
+A packed bubbles visualization was also created to discover the utilization of each Citi Bike in the month of August. This will allow us to view the total usage time per bike, as well as which bikes are used the most frequently, which will give further insight into which bikes may need repairs. Most of the above mentioned graphs are shown in the dashboard below:
+
+
 
 The peak usage hours for the month of August was figured out using a horizontal bar chart. This will help the investors get a ballpark estimate of how many bikes might be needed in Des Moines and also figure out during which parts of the day bikes will be needed the most. This way, if maintenance is required on a bike, knowing the peak usage hours will help make plans on the best time to do that. The bar graph which displays the number of bike rides initiated during each hour of the day, totaled across the entire month of August is shown below:
 
