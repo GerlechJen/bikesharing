@@ -54,11 +54,11 @@ Another graph was drawn to show the number of bike trips by gender for each hour
 
 ![image4](https://github.com/GerlechJen/bikesharing/blob/main/Images/Trips%20by%20Gender%20.png)
 
+This graph shows that 
 
 
 
-
-A final heatmap that shows the number of bike trips broken down by gender and usertype for each day of the week.
+A final heatmap that shows the number of bike trips broken down by gender and usertype for each day of the week was plotted.
 
 ![image5](https://github.com/GerlechJen/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
