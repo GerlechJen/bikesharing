@@ -40,7 +40,7 @@ The results of the above graph showed that majority of trips taken on Citi Bike 
 
 Another line chart that shows the number of bike trips for all riders and genders for each hour of each day of the week was plotted. 
 
-![image7](https://github.com/GerlechJen/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
+![image7]()
 
 The above results emphasised how the less than an hour trip durations are mostly taken by male riders, followed by female riders, with the least being those with unknown or unspecified gender. 
 
