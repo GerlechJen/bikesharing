@@ -73,7 +73,7 @@ If I were to pursue further analysis given the data provided, I would perform th
 1. A bar graph to show the top 10 trip starting and ending locations.
 2. An area graph to show the number of rides versus birth year to know which age groups often take rides. 
 
-A Tableau story for the visualizations of this data was developed and it can be seen by clicking 
+A Tableau story for the visualizations of this data was developed and it can be seen by clicking [here](https://public.tableau.com/app/profile/jennifer.anno.kusi/viz/NYCCitiBikeStory_16602520805310/Story1?publish=yes)
 
 ----
 
